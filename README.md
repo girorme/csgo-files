@@ -3,14 +3,14 @@ My csgo settings and tips
 
 
 ### Video
-- normal 4:3 / 1280x960
+- normal 16:9 / 1280x720
 
 ### Mouse
-- sens 0.90 / zoom_sens 0.90
+- sens 0.6
 - windows sens 6
 - reddragon cobra config
-  - Acceleration 1
-  - Pointer speed 4~4.5
+  - Acceleration 0
+  - Pointer speed 5
   - Scroll speed 0
-  - Polling rate 1000hz
+  - Polling rate 125hz
   - DPI 1000
